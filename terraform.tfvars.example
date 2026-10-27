@@ -1,0 +1,6 @@
+# Copy to terraform.tfvars (git-ignored) and fill in.
+budget_email = "you@example.com"
+
+# Optional overrides
+# patch_window_enabled = true
+# association_schedule = "rate(30 minutes)"

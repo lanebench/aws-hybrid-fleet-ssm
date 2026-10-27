@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl.bak
+terraform.tfstate
+terraform.tfstate.*
+*.tfplan
+crash.log
+
+# Secrets and personal values
+terraform.tfvars
+*.pem
+
+# OS / editor
+.DS_Store
+.vscode/
